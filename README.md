@@ -31,7 +31,12 @@
 <br>
 
 [//]: # ( ==== Description =========================================== )
-**This repository is used by [dockerized-norlab](https://github.com/norlab-ulaval/dockerized-norlab), [dockerized-norlab-project](https://github.com/norlab-ulaval/dockerized-norlab-project) , [norlab-shell-script-tools](https://github.com/norlab-ulaval/norlab-shell-script-tools) and [norlab-build-system](https://github.com/norlab-ulaval/norlab-build-system) for development purpose**
+**This repository is used for development purpose by
+<br> 
+[dockerized-norlab](https://github.com/norlab-ulaval/dockerized-norlab),
+[dockerized-norlab-project](https://github.com/norlab-ulaval/dockerized-norlab-project), 
+[norlab-shell-script-tools](https://github.com/norlab-ulaval/norlab-shell-script-tools) 
+and [norlab-build-system](https://github.com/norlab-ulaval/norlab-build-system).**
 <br>
 Keep its visibility public
 <br>
